@@ -1,0 +1,9 @@
+United States---90000000---North America
+England---40000000---Europe
+South Korea---19000000---Asia
+Japan---100000000---Asia
+Brazil---80000000---South America
+Mexico---200000---North America
+Lithuania---2870000---Europe
+Nigeria---186000000---Africa
+China---160000000---Asia
